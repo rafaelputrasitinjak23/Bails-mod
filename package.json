@@ -1,8 +1,8 @@
 {
   "name": "baileys-newsletter-mod",
   "type": "module",
-  "version": "6.7.9-rev.1",
-  "description": "Modified Baileys with Auto OGG Opus Converter, Real Waveform & Full Newsletter Support",
+  "version": "6.7.9-esm.1",
+  "description": "Modified Baileys (ESM) with Auto OGG Opus Converter, Real Waveform & Full Newsletter Support",
   "keywords": [
     "whatsapp",
     "automation"
